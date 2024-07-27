@@ -5,7 +5,7 @@ This repository contains a collection of Python programs developed as part of my
 ## Contents
 
 - **Basic Algorithms**: Fundamental algorithms for sorting, searching, and problem-solving.
-- **Data Structures**: Implementations of common data structures such as lists, stacks, queues, binary trees, and linked lists.
+- **Data Structures**: Implementations of common data structures such as lists, stacks, circular queues, binary trees, and linked lists.
 - **File Handling**: Programs demonstrating how to read from and write to files.
 - **Object-Oriented Programming**: Examples of classes, objects, inheritance, and other OOP concepts.
 
